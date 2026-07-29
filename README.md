@@ -1,6 +1,5 @@
-# Automated_Classification_of_Skin_Diseases_Using_Microscopic_Images
+# Automated Classification of Skin Diseases Using Microscopic Images: A Machine Learning Approach
 
-Automated Classification of Skin Diseases Using Microscopic Images: A Machine Learning Approach
 
 
 ABSTRACT
